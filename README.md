@@ -2,8 +2,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-hi, I'm a Programmer who have been following about technology since I was 14 years old. I like playing computer, games and watching anime.
+hi, I'm a Programmer who have been following about technology since I was 12 years old. I like playing computer, games and watching anime.
 Nice to meet you.
+
+🔭 Currently my job is : Student<br>
+🌱 I’m currently learning : Kotlin and android studio<br>
+💬 Ask me about : Java<br>
+🤔 I'm looking for help using: Stack Overflow/websites/articles, and (Gpt Chat if: I really can't solve the problem)<br>
+👯 I’m looking to collaborate on : Android native app<br>
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -22,10 +28,8 @@ Nice to meet you.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
